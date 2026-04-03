@@ -49,7 +49,7 @@ By deploying this self-correcting logic, ConnectSphere can:
 ---
 
 ### 🎓 Academic Context
-**Author:** Shikha Chauhan , Mantasha Fatima , Archie Chauhan , Riddhi Dayani
+**Author:** Shikha Chauhan Mantasha Fatima Archie Chauhan Riddhi Dayani
 **University:** DIT University, Dehradun  
 **Course:** B.Tech CSE (4th Semester)  
 **Project Category:** AI / Machine Learning Portfolio
