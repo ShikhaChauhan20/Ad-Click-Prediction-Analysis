@@ -47,9 +47,17 @@ By deploying this self-correcting logic, ConnectSphere can:
 3. **Scale with Less Data:** Use self-learning to maintain high accuracy even with incomplete datasets.
 
 ---
+---
 
-### 🎓 Academic Context
-**Author:** Shikha Chauhan Mantasha Fatima Archie Chauhan Riddhi Dayani
-**University:** DIT University, Dehradun  
-**Course:** B.Tech CSE (4th Semester)  
-**Project Category:** AI / Machine Learning Portfolio
+### 🎓 Project Team & Academic Context
+**Department:** B.Tech Computer Science & Engineering  
+**Batch:** 2024 - 2028 | **Semester:** 4th (Section T)  
+
+#### **Collaborators:**
+* **Shikha Chauhan** – *Lead Developer & Data Science*
+* **Mantasha Fatima** – *ML Research & Documentation*
+* **Archie Chauhan** – *Data Analysis & Visualization*
+* **Riddhi Dayani** – *Model Evaluation & Testing*
+
+**Project Category:** Artificial Intelligence / Machine Learning Portfolio  
+
